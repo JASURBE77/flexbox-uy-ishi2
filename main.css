@@ -1,0 +1,78 @@
+.logo{
+    background-color: red;
+    width: 150px;
+    height: 125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.website{
+    background-color: green;
+    width: 540px;
+    height: 125px;
+    margin-left: 150px;
+    margin-top: -125px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.menu{
+    background-color: yellow;
+    text-align: center;
+    width: 690px;
+    margin-top: -20px;
+}
+.section1{
+    background-color: blue;
+    width: 230px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -22px;
+}
+.section2{
+    background-color: gray;
+    width: 230px;
+    height: 150px;
+    margin-left: 230px;
+    margin-top: -150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section3{
+    background-color: blueviolet;
+    width: 230px;
+    height: 150px;
+    margin-left: 460px;
+    margin-top: -150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.page{
+    background-color: aqua;
+    width: 600px;
+    height: 330px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.side{
+    background-color: darkolivegreen;
+    width: 90px;
+    height: 330px;
+    margin-left: 600px;
+    margin-top: -330px;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+.footer{
+    background-color: cadetblue;
+    text-align: center;
+    width:690px;
+    margin-top: -1px;
+}
